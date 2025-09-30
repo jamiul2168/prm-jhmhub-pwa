@@ -1,0 +1,21 @@
+{
+  "name": "JH PRM Movie Hub",
+  "short_name": "JH PRM Movie Hub",
+  "start_url": "https://prm.jhmhub.jhtone.site/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/cK6fxHLP/Gemini-Generated-Image-g4mx1wg4mx1wg4mx-1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://i.ibb.co/rRxsVVDf/Gemini-Generated-Image-g4mx1wg4mx1wg4mx-2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
