@@ -1,7 +1,7 @@
 {
-  "name": "JH PRM Movie Hub",
-  "short_name": "JH PRM Movie Hub",
-  "start_url": "https://prm.jhmhub.jhtone.site/",
+  "name": "Premium Flixify",
+  "short_name": "Premium Flixify",
+  "start_url": "https://prm.flixify.jhtone.site/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
@@ -19,3 +19,4 @@
     }
   ]
 }
+
